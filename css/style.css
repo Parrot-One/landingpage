@@ -22,9 +22,9 @@ body {
   .call-to-action {
     position: left;
     background-color: #343a40;
-    background: url(../img/chill-guy-high-tatras-91224.jpg) no-repeat bottom center;
+    background: url(../img/chill-guy-high-tatras-91224.jpg) no-repeat top center;
    
     background-size: cover;
-    padding-top: 10rem;
-    padding-bottom: 10rem;
+    padding-top: 12rem;
+    padding-bottom: 14rem;
   }
